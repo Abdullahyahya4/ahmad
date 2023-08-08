@@ -1,0 +1,28 @@
+<<! DOCTYPE html> <html> <head>
+
+<title> basic web page </ title>
+
+<meta name = "viewport" Content = "width = device-width,inltial-scale=1">
+
+<link href = "style." rel = "stylesheet">
+
+</ head>
+
+<body>
+
+<h1> رنين جودي</ H1>
+<nav>
+<div class="nav-left">
+<ul>
+<li><img src="ahmad/notiflcationpng.png"></li>
+<li><img src="ahmad/television-play.png" ></li>
+<il><img src="ahmad/facebook-messenger.png"></il>
+<ul>
+</div>
+</nav>
+
+<p>This is your space to practice, get creative, and build your own projecojects from scratch.</p>
+
+<scrip src = "script. js"> </ Script>
+
+</ body> </ html>
